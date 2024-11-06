@@ -20,7 +20,7 @@ Dataset
 
 The dataset utilized for this project is sourced from Kaggle. It contains information on customer behavior, including demographic details, account information, and previous interactions, which are essential for predicting churn.
 
-Machine Learning Models
+# Machine Learning Models
 
 Multiple models were explored to determine the best performance for predicting churn. Here are some:
 
@@ -30,7 +30,7 @@ XGBoost: A powerful gradient boosting framework that is highly effective for str
 
 Support Vector Classifier (SVC): A classification method that finds the optimal hyperplane to separate different classes in the feature space.
 
-Model Performance
+# Model Performance
 
 After training and validating the models, the highest recall achieved was 55%. This indicates the model's effectiveness in correctly identifying customers who are likely to churn, which is critical for implementing retention strategies.
 
@@ -38,7 +38,7 @@ Ensembling Techniques
 
 To improve predictive performance, ensembling methods were applied, merging the outputs of multiple models. This approach enhances the robustness of predictions by leveraging the strengths of each individual model.
 
-Front-End Development
+# Front-End Development
 
 The user interface for this project is built using Streamlit, an open-source framework that enables rapid development of web applications in Python. The front-end features include:
 
@@ -48,7 +48,8 @@ Linear Bar Chart: Displays the distribution of predictions across different cust
 
 These visual tools provide intuitive insights into the data and model predictions, facilitating easier decision-making.
 
-LLM Integration
+# LLM Integration
+
 To enhance customer interactions, the application integrates with a Large Language Model (LLM) API. This functionality allows for:
 
 Custom Email Generation: Automatically generate personalized emails based on churn predictions.
