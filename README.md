@@ -4,7 +4,7 @@ Customer Churn Prediction
 Overview
 This project is a full-stack application designed to predict customer churn using advanced machine learning models. The core of the system leverages a dataset from Kaggle, which provides the foundation for understanding customer behavior and retention. Through meticulous feature engineering and data preprocessing, the model is trained to provide accurate predictions, ultimately enhancing customer relationship management strategies.
 
-Objectives
+# Objectives
 The primary goal of this project is to design robust machine learning models that can accurately predict whether a customer will churn. Key objectives include:
 
 Data Preprocessing: Clean and prepare the dataset for effective model training.
